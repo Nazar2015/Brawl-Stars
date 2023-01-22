@@ -1,0 +1,53 @@
+body{
+    background-image: url('https://img.championat.com/s/735x490/news/big/c/s/iz-brawl-stars-udalili-lutboksy-i-vse-predmety-so-sluchajnym-soderzhimym_16708568711719836264.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.wrapper{
+    width: 900px;
+    margin: 50px auto;
+    background-color: rgb(8, 224, 240);
+    border-radius: 20px;
+}
+img{
+    width: 100%;
+}
+p{
+    padding: 20px ;
+    text-align: justify;
+}
+.menu{
+    background-color: yellow ;
+    text-align: center;
+}
+.menu ul{
+    list-style: none;
+}
+.menu li{
+    display: inline-block ;
+}
+.menu a{
+    text-decoration: none;
+    line-height: 30px;
+    display: block;
+    padding: 0px 10px ;
+}
+.menu a:hover{
+    background-color: rgb(240, 8, 248);
+    color: rgb(2, 252, 135);
+}
+main{
+    width: 600px;
+    float: left;
+}
+aside{
+    width: 300px ;
+    float: right;   
+}
+footer{
+    clear: both;
+}
+h1,h2,h3{
+    text-align: center;
+}

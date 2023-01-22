@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://king-of-avalon.com/wp-content/uploads/2021/08/urovnevyj-spisok-brawl-stars-luchshie-personazhi-v-brawl-stars-1024x541.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.text{
+    width: 900px;
+    margin: 50px auto;
+    background-color: rgb(27, 240, 8);
+    border-radius: 20px;
+    padding: 30px;
+}
+img{
+    width: 100%;
+}
+h1,h2{
+    text-align: center;
+}
+.menu{
+    background-color: yellow ;
+    text-align: center;
+}
+.menu ul{
+    list-style: none;
+}
+.menu li{
+    display: inline-block ;
+}
+.menu a{
+    text-decoration: none;
+    line-height: 30px;
+    display: block;
+    padding: 0px 10px ;
+}
+.menu a:hover{
+    background-color: rgb(240, 8, 248);
+    color: rgb(2, 252, 135);
+}
